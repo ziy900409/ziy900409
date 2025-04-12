@@ -2,17 +2,18 @@
 
 ### 👋 Hi, I’m Hsin Yang
 
-I'm a **biomechanics researcher** at **BenQ**, focusing on developing experimental designs and analytical methods for both **eSports** and **traditional sports** performance.
+I'm a **Biomechanics Researcher** at **BenQ**, focusing on developing experimental designs and analytical methods for both **eSports** and **traditional sports** performance.
 
 In eSports, my primary research revolves around **First-Person Shooter (FPS) games**, such as **Counter-Strike** and **Valorant**, where I analyze player movement and aim performance.  
-In traditional sports, I’ve worked with disciplines such as **archery**, **baseball**, and **badminton**, applying biomechanics and human movement science to evaluate athlete performance.
+In traditional sports, I’ve worked with disciplines such as **Archery**, **Baseball**, and **Badminton**, applying biomechanics and human movement science to evaluate athlete performance.
 
 ---
 
 ### 🧠 Research Interests
 
+- **eSports Performance Analysis**
 - **Human kinematics** and **kinetics**
-- **Sports informatics** with a focus on **football** and **badminton** match analysis
+- **Sports informatics** with a focus on **Baseball**, **Football** and **Badminton** match analysis
 - **Motion capture**, **computer vision**, and **machine learning** applications in sports science
 
 ---
