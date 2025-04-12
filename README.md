@@ -1,13 +1,28 @@
 [![Twitter Follow @HsinYang5566](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/HsinYang5566)
 
-Hi, I’m Hsin Yang. I'm a biomechanics researcher at BenQ, mainly focusing on developing experimental and analysis methods for esports and sports. In the esports field, I mainly focus on First-Person Shooter games, such as the Counter-Strike series, Valorant...; In the traditional sports are archery, baseball, badminton...
+### 👋 Hi, I’m Hsin Yang
 
+I'm a **biomechanics researcher** at **BenQ**, focusing on developing experimental designs and analytical methods for both **eSports** and **traditional sports** performance.
 
-- I’m interested in Kinematic, Kinetic of human movement and Sport informatic. Especially in Football and Badminton match analysis.
-- I’m currently learning Sports Biomechanics, Computer Vision, and Machine Learning 
+In eSports, my primary research revolves around **First-Person Shooter (FPS) games**, such as **Counter-Strike** and **Valorant**, where I analyze player movement and aim performance.  
+In traditional sports, I’ve worked with disciplines such as **archery**, **baseball**, and **badminton**, applying biomechanics and human movement science to evaluate athlete performance.
 
+---
 
-<!---
-ziy900409/ziy900409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧠 Research Interests
+
+- **Human kinematics** and **kinetics**
+- **Sports informatics** with a focus on **football** and **badminton** match analysis
+- **Motion capture**, **computer vision**, and **machine learning** applications in sports science
+
+---
+
+### 📚 Currently Learning
+
+- Advanced topics in **sports biomechanics**
+- **Computer vision** techniques for human movement detection
+- **Machine learning** for performance analysis and classification tasks
+
+---
+
+Feel free to connect or check out my projects below!
